@@ -19,3 +19,4 @@ more ignored words
 This branch is so dirty, even your mom can't clean it.
 Please no changes this time.
 Removed test case since code didn't pass QA
+Fixed a bug in NoteLineCount... not seriously...
