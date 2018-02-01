@@ -30,3 +30,4 @@ TDD: 1, Me: 0
 bara bra grejjor
 really ignore ignored worsd
 Insert Commit Message Here
+It'd be nice if type errors caused the compiler to issue a type error
